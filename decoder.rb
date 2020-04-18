@@ -1,4 +1,5 @@
 KEY = {
+  a
 }
 
 # Define a method that takes an array of numbers to decode.
